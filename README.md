@@ -7,8 +7,7 @@
 
 ## Sobre
 
-Este é um projeto que visa encontrar uma chave privada correspondente a um endereço de carteira Bitcoin específico relacionado ao [puzzle](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx).
-
+Este é um projeto que visa encontrar uma chave privada correspondente a um endereço de carteira Bitcoin específico relacionado ao puzzle do site [privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx).
 
 
 ## Funcionalidades
@@ -16,6 +15,11 @@ Este é um projeto que visa encontrar uma chave privada correspondente a um ende
 - Encontra uma chave privada correspondente a um endereço de carteira Bitcoin específico.
 - Exibe o resultado no prompt.
 - Salva o resultado em um arquivo `.txt`.
+
+⚠️ **Aviso de Uso**
+
+- Este projeto pode consumir uma quantidade significativa de recursos de hardware durante a execução.
+- A quantidade de threads utilizadas pode ser ajustada manualmente no código-fonte, dependendo das especificações do seu hardware e de sua preferência de desempenho.
 
 
 ## Instalação
