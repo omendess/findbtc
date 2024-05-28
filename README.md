@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Este é um projeto que visa encontrar uma chave privada correspondente a um endereço de carteira Bitcoin específico relacionado ao puzzle do site [privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx).
+Este é um projeto que visa encontrar uma chave privada correspondente a um endereço de carteira Bitcoin específico relacionado ao puzzles do site [privatekeys.pw](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx).
 
 
 ## Funcionalidades
