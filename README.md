@@ -9,6 +9,12 @@
 
 Este é um projeto que visa encontrar uma chave privada correspondente a um endereço de carteira Bitcoin específico.
 
+## Funcionalidades
+
+- Encontra uma chave privada correspondente a um endereço de carteira Bitcoin específico.
+- Exibe o resultado no prompt.
+- Salva o resultado em um arquivo .txt.
+
 ## Instalação
 
 Para rodar o projeto, você precisa instalar as seguintes dependências:
